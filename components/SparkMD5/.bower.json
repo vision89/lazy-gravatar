@@ -1,0 +1,33 @@
+{
+  "name": "SparkMD5",
+  "version": "2.0.0",
+  "homepage": "https://github.com/satazor/SparkMD5",
+  "authors": [
+    "André Cruz <andremiguelcruz@msn.com>"
+  ],
+  "description": "Lightning fast normal and incremental md5 for javascript",
+  "main": "spark-md5.js",
+  "keywords": [
+    "md5",
+    "spark",
+    "incremental",
+    "fast"
+  ],
+  "license": "http://www.wtfpl.net/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "2.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.0.0",
+    "commit": "018fee878fde6dc0a064e057b3c95cd5b017e788"
+  },
+  "_source": "git://github.com/satazor/SparkMD5.git",
+  "_target": "~2.0.0",
+  "_originalSource": "satazor/SparkMD5"
+}
