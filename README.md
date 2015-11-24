@@ -8,8 +8,8 @@ Get a gravitar image the lazy way!
 
 ##Demo & Documentation
 
-    http://vision89.github.io/lazy-gravatar/components/lazy-gravatar/
+  http://vision89.github.io/lazy-gravatar/components/lazy-gravatar/
 
 #LICENSE
 
-    BSD 3-Clause, see LICENSE.txt for all the official sounding words
+  BSD 3-Clause, see LICENSE.txt for all the official sounding words
