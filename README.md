@@ -1,4 +1,4 @@
-#lazy-gravitar
+#lazy-gravatar
 
 Get a gravitar image the lazy way!
 
